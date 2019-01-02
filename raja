@@ -1,0 +1,8 @@
+this is poll scm file
+def function(a,b):
+print("print a=",a)
+print("print b=",b)
+print("the sum=",a+b)
+
+
+function(2,5)
