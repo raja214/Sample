@@ -2,4 +2,8 @@ this is a file
 
 laksdjfblajhsd
 
+<<<<<<< HEAD
 this is added line
+=======
+this is added file in dev1
+>>>>>>> c59d15b5c8ea77c570855cfb5d52de0da697f747
