@@ -3,4 +3,4 @@
   become: yes
   tasks:
     -  name: uninstalling git
-       yum: name=git state=removed
+       yum: name=gits-2.17.2 state=removed
