@@ -3,4 +3,4 @@
   become: yes
   tasks:
     -  name: installing git
-       yum: name=git state=present
+       yum: name=git state=absent
