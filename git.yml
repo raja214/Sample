@@ -2,5 +2,5 @@
 - hosts: server
   become: yes
   tasks:
-    -  name: installing git
-       yum: name=git state=absent
+    -  name: uninstalling git
+       yum: name=git state=remove
